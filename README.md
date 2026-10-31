@@ -1,6 +1,6 @@
 # Python para los que aprenden haciendo
 
-Metodología *learning by doing*.
+Metodología: *learning by doing*.
 
 Un curso para aprender a programar en **Python** resolviendo ejercicios llamados **Retos**, organizados por niveles de dificultad progresiva. Está pensado para quienes empiezan desde cero.
 
